@@ -1,11 +1,11 @@
 ### Hi there 👋
 
-My name is Daniel Ziv, currently pursuing a Computer Science bachelors degree from Holon Institute of Technology in Israel - Holon.
+My name is Daniel Ziv, I'm a RPA Developer at hms - Strategic Financial IT.
+I'm working with Uipath platform.
 
 - 🌱 I’m currently learning:
-   * Devops
-   * Java OOP, Threads, Android design, Dynamic layout
-   * HTML, CSS, JavaScript, Node.js, Express.js, MongoDB
+   * Unity - game developing
+   * C#
    
 - 📫 How to reach me:
    * danielziv94@gmail.com
