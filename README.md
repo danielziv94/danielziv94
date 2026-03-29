@@ -16,10 +16,17 @@ I am a results-driven **RPA Team Leader** specializing in the **UiPath** ecosyst
 * **Languages:** Python, C#, SQL.
 * **Cloud & DevOps:** AWS (Learning), Docker, Git.
 
-### 📊 GitHub Activity
-![Commits](https://img.shields.io/github/commit-activity/m/danielziv94?style=for-the-badge&labelColor=24292e&color=007ACC&logo=github)
-![Repo Count](https://img.shields.io/github/repos/count/danielziv94?style=for-the-badge&labelColor=24292e&color=28a745&logo=git)
-![Top Language](https://img.shields.io/github/languages/top/danielziv94/Car-Price-Prediction?style=for-the-badge&labelColor=24292e&color=ffca28)
+### 📊 Digital Presence & Activity
+[![GitHub](https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge&logo=github)](https://github.com/danielziv94)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/daniel-ziv-8139561b2/)
+[![Portfolio](https://img.shields.io/badge/Projects-AI_Agents-FF6F00?style=for-the-badge&logo=google-assistant)](https://github.com/danielziv94?tab=repositories)
+
+---
+
+### ⚡ Quick Stats
+* 💻 **Main Stack:** Python & UiPath
+* 🚀 **Current Focus:** Agentic AI Automation
+* 📁 **Public Repos:** Check them out below!
 
 ---
 
