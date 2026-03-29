@@ -22,7 +22,12 @@ I am a results-driven **RPA Team Leader** specializing in the **UiPath** ecosyst
 ### 📊 Presence & Activity
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/daniel-ziv-8139561b2/)
 [![Portfolio](https://img.shields.io/badge/Projects-AI_Agents-FF6F00?style=for-the-badge&logo=google-assistant)](https://github.com/danielziv94?tab=repositories)
-[![Email](https://img.shields.io/badge/Email-Contact_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:danielziv94@gmail.com)
+
+---
+
+### 📫 Let's Connect
+* 📧 **Email:** [danielziv94@gmail.com](mailto:danielziv94@gmail.com)
+* 💼 **LinkedIn:** [Daniel Ziv](https://www.linkedin.com/in/daniel-ziv-8139561b2/)
 
 ---
 
