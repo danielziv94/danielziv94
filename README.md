@@ -9,7 +9,6 @@ I am a results-driven **RPA Team Leader** specializing in the **UiPath** ecosyst
 ### 🚀 What I'm working on
 * 🤖 **AI Agents:** Developing autonomous frameworks to automate end-to-end development cycles.
 * 🛠️ **Enterprise RPA:** Designing scalable, on-premise infrastructure for large-scale automation.
-* 📈 **Data Science:** Exploring predictive modeling (like my Car-Price-Prediction project).
 
 ### 🛠️ Tech Stack
 * **Automation:** UiPath (Studio, Orchestrator, Document Understanding, Apps).
