@@ -17,7 +17,7 @@ I am a results-driven **RPA Team Leader** specializing in the **UiPath** ecosyst
 * **Cloud & DevOps:** AWS (Learning), Docker, Git.
 
 ### 📊 GitHub Stats
-![Daniel's GitHub stats](https://github-readme-stats.vercel.app/api?username=danielziv94&show_icons=true&theme=radical)
+![Daniel's GitHub stats](https://github-readme-stats.vercel.app/api?username=danielziv94&show_icons=true&theme=radical&rank_icon=github)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=danielziv94&layout=compact&theme=radical)
 
 ---
