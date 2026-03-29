@@ -16,9 +16,10 @@ I am a results-driven **RPA Team Leader** specializing in the **UiPath** ecosyst
 * **Languages:** Python, C#, SQL.
 * **Cloud & DevOps:** AWS (Learning), Docker, Git.
 
-### 📊 GitHub Stats
-![Daniel's GitHub stats](https://github-readme-stats.vercel.app/api?username=danielziv94&show_icons=true&theme=radical&rank_icon=github)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=danielziv94&layout=compact&theme=radical)
+### 📊 GitHub Activity
+![Commits](https://img.shields.io/github/commit-activity/m/danielziv94?style=for-the-badge&labelColor=24292e&color=007ACC&logo=github)
+![Repo Count](https://img.shields.io/github/repos/count/danielziv94?style=for-the-badge&labelColor=24292e&color=28a745&logo=git)
+![Top Language](https://img.shields.io/github/languages/top/danielziv94/Car-Price-Prediction?style=for-the-badge&labelColor=24292e&color=ffca28)
 
 ---
 
