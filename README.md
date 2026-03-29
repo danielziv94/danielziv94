@@ -27,7 +27,6 @@ I am a results-driven **RPA Team Leader** specializing in the **UiPath** ecosyst
 
 ### 📫 Let's Connect
 * 📧 **Email:** [danielziv94@gmail.com](mailto:danielziv94@gmail.com)
-* 💼 **LinkedIn:** [Daniel Ziv](https://www.linkedin.com/in/daniel-ziv-8139561b2/)
 
 ---
 
